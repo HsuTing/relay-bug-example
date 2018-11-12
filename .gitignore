@@ -1,0 +1,13 @@
+# default
+*.swp
+*.log
+.DS_Store
+
+# node
+node_modules
+
+# next
+.next
+
+# schema
+__generated__

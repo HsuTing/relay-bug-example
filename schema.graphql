@@ -1,0 +1,8 @@
+type User {
+  id: ID!
+  isLogin: Boolean!
+}
+
+type Query {
+  user: User!
+}
